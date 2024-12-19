@@ -12,7 +12,7 @@ In the project directory, you can run the command:
 ** You must have python installed on the computer. **
 
 
-
+<br><br>
 
 
 ## PT - Minigame desenvolvido como um desafio para a Kodland
