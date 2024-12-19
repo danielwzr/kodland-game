@@ -3,7 +3,10 @@
 
 In the project directory, you can run:
 
+
 ### py game.py
+
+
 
 
 ** You must have python installed on the computer. **
