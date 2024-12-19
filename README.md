@@ -3,11 +3,10 @@
 
 You can use the keys WASD or arrows to control the player. Must achieve 5 points to complete the game.
 
-In the project directory, you can run the command:
-
+In the project directory, you can run one of the following commands:
 
 ### py game.py
-
+### python game.py
 
 ** You must have python installed on the computer. **
 
@@ -19,8 +18,9 @@ In the project directory, you can run the command:
 
 Você pode usar as teclas WASD ou as setas para controlar o jogador. É necessário alcançar 5 pontos para completar o jogo.
 
-No diretório do projeto, execute o comando:
+No diretório do projeto, execute um dos comandos:
 
 ### py game.py
+### python game.py
 
 ** Deve ter o Python instalado no computador. **
